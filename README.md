@@ -53,10 +53,6 @@ I'm a **self-taught Web Developer and AI Automation Builder** currently pursuing
 </div>
 
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devjagdish&theme=tokyo-night&hide_border=true" />
-</div>
-
 ## 💼 Professional Experience
 
 <details>
