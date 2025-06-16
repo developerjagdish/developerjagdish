@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Web+Developer+%26+AI+Automation+Builder;Self-taught+Developer;BCA+Student;n8n+Workflow+Expert;Building+the+Future+with+AI" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devjagdish&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devjagdish&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/devjagdish?label=Followers&style=social" alt="GitHub Followers" />
@@ -56,12 +52,6 @@ I'm a **self-taught Web Developer and AI Automation Builder** currently pursuing
 
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devjagdish&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjagdish&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devjagdish&theme=tokyo-night&hide_border=true" />
